@@ -1,0 +1,50 @@
+#personalblog{
+	text-align:center;
+	background-color: silver;
+	font-family: Open Sans;
+	font-size: 80px;
+	color:white;
+	padding-top: center;
+}
+#personalinfo{
+	text-align:center;
+	font-family: Open Sans;
+	font-size: 30px;
+	color: white;
+}
+#a{
+	text-align:center;
+	font-family: Bree Serif;
+	letter-spacing: 1px;
+	font-size: 20px;
+	color:white;
+}
+#b{
+	text-align:center;
+	font-family: Bree Serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color:white;
+}
+#c{
+	text-align:center;
+	font-family: Bree Serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color:white;
+}
+
+body{
+   background-color: #37474F;
+}
+img{
+	display: block;
+	margin:50px;
+	margin : 0 auto;
+	width: 22%;
+	border-bottom: 7px solid #78909C;	
+	border-top: 7px solid #78909C;
+	border-left: 7px solid #78909C;	
+	border-right: 7px solid #78909C;
+
+}
