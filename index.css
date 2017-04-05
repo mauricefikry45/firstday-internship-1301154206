@@ -1,50 +1,53 @@
 #personalblog{
 	text-align:center;
 	background-color: silver;
-	font-family: Open Sans;
-	font-size: 80px;
-	color:white;
+	font-family: 'Shrikhand', cursive;
+	font-size: 50px;
+	color:#424242s;
 	padding-top: center;
 }
 #personalinfo{
 	text-align:center;
 	font-family: Open Sans;
 	font-size: 30px;
-	color: white;
+	color: black;
+
 }
 #a{
 	text-align:center;
 	font-family: Bree Serif;
 	letter-spacing: 1px;
-	font-size: 20px;
-	color:white;
+	font-size: 23px;
+	color:black;
 }
 #b{
 	text-align:center;
 	font-family: Bree Serif;
 	font-size: 20px;
-	letter-spacing: 2px;
-	color:white;
+	letter-spacing: 0px;
+	color:black;
+	column-count: 1;
+	column-gap: 20px;
 }
 #c{
 	text-align:center;
 	font-family: Bree Serif;
-	font-size: 20px;
-	letter-spacing: 2px;
-	color:white;
+	font-size: 15px;
+	letter-spacing: 0px;
+	color:black;
+	column-count: 1;
+	column-gap: 20px;
 }
-
 body{
-   background-color: #37474F;
+   background-color: #C5CAE9;
 }
 img{
 	display: block;
-	margin:50px;
 	margin : 0 auto;
+    
 	width: 22%;
 	border-bottom: 7px solid #78909C;	
 	border-top: 7px solid #78909C;
 	border-left: 7px solid #78909C;	
 	border-right: 7px solid #78909C;
-
 }
